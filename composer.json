@@ -24,7 +24,7 @@
     "hipay/hipay-wallet-cashout-mirakl-library" : "~2.1",
     "incenteev/composer-parameter-handler": "^2.0",
     "gedmo/doctrine-extensions" : "^2.4",
-    "swiftmailer/swiftmailer": "^5.0",
+    "swiftmailer/swiftmailer": "^6.2",
     "monolog/monolog": "^1.17",
     "symfony/validator": "^2.6",
     "doctrine/annotations": "^1.2",
